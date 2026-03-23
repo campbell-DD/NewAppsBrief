@@ -8,27 +8,27 @@ New Apps Brief is a curated app directory for SEO indexing. It collects new app 
 
 ## How To Maintain
 
-1. Edit [`data/apps.json`](./data/apps.json).
-2. Run `node scripts/generate-content.mjs`.
+1. Add a new record with `npm run add-app` or edit [`data/apps.json`](./data/apps.json) directly.
+2. Run `node scripts/generate-content.mjs` or `npm run generate`.
 3. Commit the updated `README.md` and generated files in [`apps/`](./apps).
 
 ## App Directory
 
 | App Name | Category | Website | Short Description | SEO Keywords | Detail Page |
 | --- | --- | --- | --- | --- | --- |
-| Sailor Piece Wiki & Guide Hub | Game Wiki | https://sailorpiece.pro | A Sailor Piece wiki and guide hub for players looking for game information, tips, and progression help. | sailor piece wiki, sailor piece guide, sailor piece tips, game wiki, guide hub | [sailor-piece-wiki-guide-hub](./apps/sailor-piece-wiki-guide-hub.md) |
-| Blinkly AI | AI Image and Video Creation | https://blinklyai.com/ | Fast AI image editing and cinematic AI video generation for turning ideas into films and animating static photos. | blinkly ai, ai image editing, ai video generator, cinematic ai video, photo to video ai | [blinkly-ai](./apps/blinkly-ai.md) |
-| HumanDesignChart.org | Human Design Chart Tool | https://humandesignchart.org | Generate a free Human Design Chart instantly and explore your Type, Strategy, Authority, Profile, and Bodygraph analysis. | free human design chart, human design chart, human design calculator, bodygraph analysis, human design reading | [human-design-chart](./apps/human-design-chart.md) |
-| Box-Breathing.org | Breathing App | https://box-breathing.org | A professional box breathing app for mastering the box breathing technique and guided breathing exercise for anxiety relief. | box breathing, box breathing exercise, box breathing app, breathing exercise for anxiety, guided breathwork | [box-breathing](./apps/box-breathing.md) |
-| SnapWind | Window Manager App | https://snapwind.app/ | A lightweight window manager that instantly tidies up messy windows and helps keep your desktop organized. | snapwind, window manager app, desktop productivity app, window snapping tool, desktop organization | [snapwind](./apps/snapwind.md) |
+| Sailor Piece Wiki & Guide Hub | Game Wiki | https://sailorpiece.pro | A Sailor Piece wiki and guide hub for builds, progression tips, gameplay reference, and player help. | sailor piece wiki, sailor piece guide, sailor piece tips, sailor piece builds, sailor piece progression guide, game wiki, guide hub | [sailor-piece-wiki-guide-hub](./apps/sailor-piece-wiki-guide-hub.md) |
+| Blinkly AI | AI Image and Video Creation | https://blinklyai.com/ | Fast AI image editing and cinematic AI video generation for turning ideas into visual stories and animating static photos. | blinkly ai, ai image editing, ai video generator, cinematic ai video, photo to video ai, ai image editor, ai film generator | [blinkly-ai](./apps/blinkly-ai.md) |
+| HumanDesignChart.org | Human Design Chart Tool | https://humandesignchart.org | Generate a free Human Design Chart instantly and explore your Type, Strategy, Authority, Profile, and Bodygraph analysis. | free human design chart, human design chart, human design calculator, bodygraph analysis, human design reading, bodygraph chart, human design profile | [human-design-chart](./apps/human-design-chart.md) |
+| Box-Breathing.org | Breathing App | https://box-breathing.org | A professional box breathing app for learning the box breathing technique and practicing guided breathing for anxiety relief and focus. | box breathing, box breathing exercise, box breathing app, breathing exercise for anxiety, guided breathwork, anxiety breathing technique, stress relief breathing | [box-breathing](./apps/box-breathing.md) |
+| SnapWind | Window Manager App | https://snapwind.app/ | A lightweight window manager that instantly tidies up messy windows and helps keep your desktop organized and productive. | snapwind, window manager app, desktop productivity app, window snapping tool, desktop organization, workspace organization software, lightweight window manager | [snapwind](./apps/snapwind.md) |
 
 ## App Detail Pages
 
-- [Sailor Piece Wiki & Guide Hub](./apps/sailor-piece-wiki-guide-hub.md): A Sailor Piece wiki and guide hub for players looking for game information, tips, and progression help. - sailor piece wiki, sailor piece guide, sailor piece tips, game wiki, guide hub
-- [Blinkly AI](./apps/blinkly-ai.md): Fast AI image editing and cinematic AI video generation for turning ideas into films and animating static photos. - blinkly ai, ai image editing, ai video generator, cinematic ai video, photo to video ai
-- [HumanDesignChart.org](./apps/human-design-chart.md): Generate a free Human Design Chart instantly and explore your Type, Strategy, Authority, Profile, and Bodygraph analysis. - free human design chart, human design chart, human design calculator, bodygraph analysis, human design reading
-- [Box-Breathing.org](./apps/box-breathing.md): A professional box breathing app for mastering the box breathing technique and guided breathing exercise for anxiety relief. - box breathing, box breathing exercise, box breathing app, breathing exercise for anxiety, guided breathwork
-- [SnapWind](./apps/snapwind.md): A lightweight window manager that instantly tidies up messy windows and helps keep your desktop organized. - snapwind, window manager app, desktop productivity app, window snapping tool, desktop organization
+- [Sailor Piece Wiki & Guide Hub](./apps/sailor-piece-wiki-guide-hub.md): A Sailor Piece wiki and guide hub for builds, progression tips, gameplay reference, and player help. - sailor piece wiki, sailor piece guide, sailor piece tips, sailor piece builds, sailor piece progression guide, game wiki, guide hub
+- [Blinkly AI](./apps/blinkly-ai.md): Fast AI image editing and cinematic AI video generation for turning ideas into visual stories and animating static photos. - blinkly ai, ai image editing, ai video generator, cinematic ai video, photo to video ai, ai image editor, ai film generator
+- [HumanDesignChart.org](./apps/human-design-chart.md): Generate a free Human Design Chart instantly and explore your Type, Strategy, Authority, Profile, and Bodygraph analysis. - free human design chart, human design chart, human design calculator, bodygraph analysis, human design reading, bodygraph chart, human design profile
+- [Box-Breathing.org](./apps/box-breathing.md): A professional box breathing app for learning the box breathing technique and practicing guided breathing for anxiety relief and focus. - box breathing, box breathing exercise, box breathing app, breathing exercise for anxiety, guided breathwork, anxiety breathing technique, stress relief breathing
+- [SnapWind](./apps/snapwind.md): A lightweight window manager that instantly tidies up messy windows and helps keep your desktop organized and productive. - snapwind, window manager app, desktop productivity app, window snapping tool, desktop organization, workspace organization software, lightweight window manager
 - Directory guide: [`apps/README.md`](./apps/README.md)
 - Optional writing template: [`apps/_template.md`](./apps/_template.md)
 
@@ -39,6 +39,10 @@ New Apps Brief is a curated app directory for SEO indexing. It collects new app 
 - Use a clear one-line summary for the homepage table.
 - Add category phrases and long-tail keywords naturally.
 - Keep one source of truth in `data/apps.json` to avoid outdated descriptions.
+
+## Quick Add
+
+Run `npm run add-app` to append a new app record interactively, then run `npm run generate` to rebuild the README and detail pages.
 
 ## Example Record
 

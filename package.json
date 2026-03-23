@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "add-app": "node scripts/add-app.mjs",
     "generate": "node scripts/generate-content.mjs"
   }
 }

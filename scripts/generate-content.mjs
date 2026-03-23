@@ -122,8 +122,8 @@ function renderReadme(apps) {
     "",
     "## How To Maintain",
     "",
-    "1. Edit [`data/apps.json`](./data/apps.json).",
-    "2. Run `node scripts/generate-content.mjs`.",
+    "1. Add a new record with `npm run add-app` or edit [`data/apps.json`](./data/apps.json) directly.",
+    "2. Run `node scripts/generate-content.mjs` or `npm run generate`.",
     "3. Commit the updated `README.md` and generated files in [`apps/`](./apps).",
     "",
     "## App Directory",
@@ -166,6 +166,8 @@ function renderReadme(apps) {
   lines.push("- Use a clear one-line summary for the homepage table.");
   lines.push("- Add category phrases and long-tail keywords naturally.");
   lines.push("- Keep one source of truth in `data/apps.json` to avoid outdated descriptions.", "");
+  lines.push("## Quick Add", "");
+  lines.push("Run `npm run add-app` to append a new app record interactively, then run `npm run generate` to rebuild the README and detail pages.", "");
   lines.push("## Example Record", "");
   lines.push("```json");
   lines.push('{');

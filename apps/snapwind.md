@@ -9,17 +9,18 @@ SnapWind is a Window Manager App. The official website is [https://snapwind.app/
 
 ## Short Description
 
-A lightweight window manager that instantly tidies up messy windows and helps keep your desktop organized.
+A lightweight window manager that instantly tidies up messy windows and helps keep your desktop organized and productive.
 
 ## Overview
 
-SnapWind is a lightweight window manager app designed to instantly tidy up messy windows and improve desktop organization. It fits searches around window manager, desktop productivity app, window snapping tool, and workspace organization software. The product is relevant for users who want a faster and cleaner way to manage multiple open windows.
+SnapWind is a lightweight window manager app for users who want faster desktop organization without heavyweight setup or complex workflows. It helps tidy messy windows instantly, improve focus, and keep multiple apps arranged in a cleaner workspace. It is relevant for searches such as window manager app, desktop productivity app, window snapping tool, and desktop organization software.
 
 ## Main Features
 
 - Lightweight window management
 - Instant window tidying
 - Helps organize cluttered desktops
+- Supports focus-friendly desktop workflows
 
 ## Best For
 
@@ -35,6 +36,8 @@ SnapWind is a lightweight window manager app designed to instantly tidy up messy
 - desktop productivity app
 - window snapping tool
 - desktop organization
+- workspace organization software
+- lightweight window manager
 
 ## Alternatives
 

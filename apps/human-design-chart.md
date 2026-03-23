@@ -13,13 +13,14 @@ Generate a free Human Design Chart instantly and explore your Type, Strategy, Au
 
 ## Overview
 
-HumanDesignChart.org is a free Human Design Chart generator that helps users discover their unique energetic blueprint. It provides instant chart generation and detailed information about Type, Strategy, Authority, Profile, and Bodygraph analysis with astronomical-grade precision. It is relevant for searches such as free human design chart, human design calculator, bodygraph chart, and human design reading.
+HumanDesignChart.org is a free Human Design Chart generator for users who want an instant Human Design reading and a clearer understanding of their energetic blueprint. It provides chart generation plus breakdowns for Type, Strategy, Authority, Profile, and complete Bodygraph analysis with astronomical-grade precision. It is optimized for search intent around free human design chart, human design calculator, bodygraph chart, and online human design reading.
 
 ## Main Features
 
 - Instant free Human Design Chart generation
 - Type, Strategy, Authority, and Profile insights
 - Complete Bodygraph analysis
+- Astronomical-grade precision positioning
 
 ## Best For
 
@@ -34,6 +35,8 @@ HumanDesignChart.org is a free Human Design Chart generator that helps users dis
 - human design calculator
 - bodygraph analysis
 - human design reading
+- bodygraph chart
+- human design profile
 
 ## Alternatives
 
