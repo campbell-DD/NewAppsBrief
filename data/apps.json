@@ -1,0 +1,173 @@
+{
+  "apps": [
+    {
+      "slug": "sailor-piece-wiki-guide-hub",
+      "name": "Sailor Piece Wiki & Guide Hub",
+      "category": "Game Wiki",
+      "url": "https://sailorpiece.pro",
+      "shortDescription": "A Sailor Piece wiki and guide hub for players looking for game information, tips, and progression help.",
+      "overview": "Sailor Piece Wiki & Guide Hub is a game wiki site for Sailor Piece players who want fast access to game guides, reference content, and progression help. It is relevant for searches around Sailor Piece wiki, Sailor Piece guide, game tips, and player support resources.",
+      "keywords": [
+        "sailor piece wiki",
+        "sailor piece guide",
+        "sailor piece tips",
+        "game wiki",
+        "guide hub"
+      ],
+      "features": [
+        "Centralized Sailor Piece guide content",
+        "Wiki-style game reference pages",
+        "Player support for progression and gameplay"
+      ],
+      "bestFor": [
+        "Sailor Piece players",
+        "New players looking for guides",
+        "Users searching for wiki information"
+      ],
+      "alternatives": [
+        "Fandom wikis",
+        "Community Discord guides"
+      ],
+      "notes": [
+        "Positioned as a dedicated guide hub for Sailor Piece",
+        "Useful for branded search and long-tail guide keywords"
+      ]
+    },
+    {
+      "slug": "blinkly-ai",
+      "name": "Blinkly AI",
+      "category": "AI Image and Video Creation",
+      "url": "https://blinklyai.com/",
+      "shortDescription": "Fast AI image editing and cinematic AI video generation for turning ideas into films and animating static photos.",
+      "overview": "Blinkly AI is an AI image and video creation app focused on fast image editing and cinematic AI video generation. It helps users transform ideas into visual content, create stunning AI films, and breathe life into static photos. It matches searches such as AI image editing, AI video generator, cinematic AI video, and photo to video app.",
+      "keywords": [
+        "blinkly ai",
+        "ai image editing",
+        "ai video generator",
+        "cinematic ai video",
+        "photo to video ai"
+      ],
+      "features": [
+        "Fast AI image editing",
+        "Cinematic AI video generation",
+        "Turns static photos into dynamic visuals"
+      ],
+      "bestFor": [
+        "Content creators",
+        "Marketers",
+        "Designers",
+        "Social media teams"
+      ],
+      "alternatives": [
+        "Runway",
+        "Pika",
+        "Kaiber"
+      ],
+      "notes": [
+        "Strong fit for AI creative tooling keywords",
+        "Can target both image editing and AI video creation intent"
+      ]
+    },
+    {
+      "slug": "human-design-chart",
+      "name": "HumanDesignChart.org",
+      "category": "Human Design Chart Tool",
+      "url": "https://humandesignchart.org",
+      "shortDescription": "Generate a free Human Design Chart instantly and explore your Type, Strategy, Authority, Profile, and Bodygraph analysis.",
+      "overview": "HumanDesignChart.org is a free Human Design Chart generator that helps users discover their unique energetic blueprint. It provides instant chart generation and detailed information about Type, Strategy, Authority, Profile, and Bodygraph analysis with astronomical-grade precision. It is relevant for searches such as free human design chart, human design calculator, bodygraph chart, and human design reading.",
+      "keywords": [
+        "free human design chart",
+        "human design chart",
+        "human design calculator",
+        "bodygraph analysis",
+        "human design reading"
+      ],
+      "features": [
+        "Instant free Human Design Chart generation",
+        "Type, Strategy, Authority, and Profile insights",
+        "Complete Bodygraph analysis"
+      ],
+      "bestFor": [
+        "People exploring Human Design",
+        "Coaches and spiritual practitioners",
+        "Users searching for a free chart generator"
+      ],
+      "alternatives": [
+        "MyBodyGraph",
+        "Jovian Archive"
+      ],
+      "notes": [
+        "Targets informational and self-discovery search intent",
+        "Strong long-tail potential around Human Design terms"
+      ]
+    },
+    {
+      "slug": "box-breathing",
+      "name": "Box-Breathing.org",
+      "category": "Breathing App",
+      "url": "https://box-breathing.org",
+      "shortDescription": "A professional box breathing app for mastering the box breathing technique and guided breathing exercise for anxiety relief.",
+      "overview": "Box-Breathing.org is a breathing app focused on helping users learn and practice the box breathing technique. It is useful for people searching for breathing exercises for anxiety, guided breathwork, focus training, and stress reduction. The site aligns well with terms like box breathing exercise, box breathing app, and anxiety breathing technique.",
+      "keywords": [
+        "box breathing",
+        "box breathing exercise",
+        "box breathing app",
+        "breathing exercise for anxiety",
+        "guided breathwork"
+      ],
+      "features": [
+        "Guided box breathing practice",
+        "Breathing exercises for anxiety and stress relief",
+        "Professional and focused breathing app positioning"
+      ],
+      "bestFor": [
+        "People dealing with stress or anxiety",
+        "Meditation and breathwork users",
+        "Professionals wanting a simple breathing routine"
+      ],
+      "alternatives": [
+        "Breathwrk",
+        "Othership"
+      ],
+      "notes": [
+        "Well suited for wellness and anxiety-related SEO keywords",
+        "Can attract both educational and app-intent traffic"
+      ]
+    },
+    {
+      "slug": "snapwind",
+      "name": "SnapWind",
+      "category": "Window Manager App",
+      "url": "https://snapwind.app/",
+      "shortDescription": "A lightweight window manager that instantly tidies up messy windows and helps keep your desktop organized.",
+      "overview": "SnapWind is a lightweight window manager app designed to instantly tidy up messy windows and improve desktop organization. It fits searches around window manager, desktop productivity app, window snapping tool, and workspace organization software. The product is relevant for users who want a faster and cleaner way to manage multiple open windows.",
+      "keywords": [
+        "snapwind",
+        "window manager app",
+        "desktop productivity app",
+        "window snapping tool",
+        "desktop organization"
+      ],
+      "features": [
+        "Lightweight window management",
+        "Instant window tidying",
+        "Helps organize cluttered desktops"
+      ],
+      "bestFor": [
+        "Power users",
+        "Remote workers",
+        "Developers",
+        "Desktop productivity users"
+      ],
+      "alternatives": [
+        "Rectangle",
+        "Magnet",
+        "Raycast window management"
+      ],
+      "notes": [
+        "Strong fit for productivity and desktop software SEO",
+        "Useful for branded search plus generic window manager terms"
+      ]
+    }
+  ]
+}

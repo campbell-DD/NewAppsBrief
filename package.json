@@ -1,0 +1,8 @@
+{
+  "name": "new-apps-brief",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-content.mjs"
+  }
+}
